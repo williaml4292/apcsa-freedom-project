@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-## Tool: **Unreal Engine** (and C+ I guess)
+## Tool: **Unreal Engine** (and C++ I guess)
 
 ## Project: **3D RPG**
 
