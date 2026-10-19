@@ -1,13 +1,17 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Unreal Engine** (and C+ I guess)
 
-## Project: **X**
+## Project: **3D RPG**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/19/26:
+* Found some tutorials for C++ online.
+* [https://www.coursera.org/specializations/cplusplusunrealgamedevelopment](url)
+* [https://www.coursera.org/specializations/cplusplusunrealgamedevelopment#courses](url)
+
+* Can probably learn C++ at home and tinker with Unreal at home.
 
 ### X/X/XX:
 * Text
