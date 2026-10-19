@@ -11,7 +11,7 @@
 * [https://www.coursera.org/specializations/cplusplusunrealgamedevelopment](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment)
 * [https://www.codecademy.com/learn/learn-c-plus-plus](https://www.codecademy.com/learn/learn-c-plus-plus)
 
-* Can probably learn C++ at home and tinker with Unreal at home.
+* Can probably learn C++ at school and tinker with Unreal at home.
 
 ### X/X/XX:
 * Text
