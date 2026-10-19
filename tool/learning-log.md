@@ -8,8 +8,8 @@
 
 ### 10/19/26:
 * Found some tutorials for C++ online.
-* [https://www.coursera.org/specializations/cplusplusunrealgamedevelopment](url)
-* [https://www.coursera.org/specializations/cplusplusunrealgamedevelopment#courses](url)
+* [https://www.coursera.org/specializations/cplusplusunrealgamedevelopment]([url](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment))
+* [https://www.codecademy.com/learn/learn-c-plus-plus]([url](https://www.codecademy.com/learn/learn-c-plus-plus))
 
 * Can probably learn C++ at home and tinker with Unreal at home.
 
