@@ -4,7 +4,6 @@
 
 ## Project: **3D PVE RPG**
 
----
 
 ### 10/19/26:
 * Found some tutorials for C++ online.
@@ -12,7 +11,7 @@
 * [https://www.codecademy.com/learn/learn-c-plus-plus](https://www.codecademy.com/learn/learn-c-plus-plus)
 
 * Can probably learn C++ at school and tinker with Unreal at home.
-
+---
 ### 10/23/26:
 * The first link requires a subscription after 7 days.
 * Codecademy has free lessons.
