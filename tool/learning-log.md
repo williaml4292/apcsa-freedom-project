@@ -27,9 +27,9 @@ It has the standard way of running--top to bottom.
     3) Beginning of main function
     4) code
     5) End of main function.
-`std::cout << "Hello World!\n";
-* std::cout stands for **c**haracter **out**put stream (called see-out)
-  * << comes after it
+`std::cout << "Hello World!\n";`
+* `std::cout` stands for **c**haracter **out**put stream (called see-out)
+  * `<<` comes after it.
   * Things in the quotes are being output.
   * \n is new line.
   * ; = end of statement.
