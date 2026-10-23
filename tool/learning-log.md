@@ -34,7 +34,7 @@ It has the standard way of running--top to bottom.
   * \n is new line.
   * ; = end of statement.
 ``` C++
-#include <libraryName>
+#include <iostream>
 
 int main() {
   std::cout << "String\n";
