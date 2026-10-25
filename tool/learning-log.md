@@ -49,6 +49,21 @@ Like 🚙💨 works.
 * Official Unreal Documentation: [https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-8-documentation](https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-8-documentation).
 
 Takes an entire hour to install after figuring out the steps.
+
+### 10/25/26
+* When in the editor, use wasd to move around and q and e to fly.
+* R = Scale (changing the length and width
+* E = Rotate along 3 different axises.
+* W = Move (press w to get the interface for moving stuff.
+* In the bottom left corner, there's a content drawer where you move in parts to the level.
+* Details panel on the right side of the screen (after clicking a block) allows you to set the properties of an object.
+* The outlier panel displays all blocks currently on the level.
+* You can double click the object's picture to edit its color and physical properties (basically everything with a picture can be double clicked to change properties).
+  * Base color = Color
+  * Metallic = How well light reflects on it
+  * Roughness = How well other objects are reflected on it. (0 = you can see what is currently facing the object).
+* Holding L and clicking adds a light that is visible for both you and the player (the player doesn't see the lightbulb, they just see a patch of light).
+* Holding ctrl l and moving your mouse changes the angle of the sun.
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
