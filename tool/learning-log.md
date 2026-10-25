@@ -48,7 +48,7 @@ Like 🚙💨 works.
     * Found out that you also have to download twin motion to have unreal be downloadable (a visualization tool that wasn't even included in the steps).
 * Official Unreal Documentation: [https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-8-documentation](https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-8-documentation).
 
-
+Takes an entire hour to install after figuring out the steps.
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
