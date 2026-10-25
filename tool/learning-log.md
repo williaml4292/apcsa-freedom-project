@@ -42,7 +42,11 @@ int main() {
 ```
 It doesn't have to be a string, it can also be emojis and other characters.
 Like 🚙💨 works.
-
+### 10/24/26
+* Spent an entire 2 hours figuring out how to download unreal engine.
+  * There's like 5 steps and a bug that makes it so that the download button is grayed out.
+    * Found out that you also have to download twin motion to have unreal be downloadable (a visualization tool that wasn't even included in the steps).
+* Official Unreal Documentation: [https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-8-documentation](https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-8-documentation).
 
 
 <!-- 
