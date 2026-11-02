@@ -77,6 +77,9 @@ Takes an entire hour to install after figuring out the steps.
   * Execute
 * To compile a file, use g++ fileName.cpp
   * It creates a machine code file called a.out
+  * You can also use g++ fileName.cpp -o newFileName
+    * This names the machine code filed created as newFileName
+* To execute a file, use ./machineCodeFile (which is a.out unless you rename it)
 
 <!-- 
 * Links you used today (websites, videos, etc)
