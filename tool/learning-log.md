@@ -64,7 +64,7 @@ Takes an entire hour to install after figuring out the steps.
   * Roughness = How well other objects are reflected on it. (0 = you can see what is currently facing the object).
 * Holding L and clicking adds a light that is visible for both you and the player (the player doesn't see the lightbulb, they just see a patch of light).
 * Holding ctrl l and moving your mouse changes the angle of the sun.
-### 10/2/26
+### 11/2/26
 * return 0
   * The return statement is used to end a function. Returning a value indicates to the system that the code was executed successfully.
   * This part is optional.
