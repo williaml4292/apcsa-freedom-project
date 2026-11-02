@@ -53,7 +53,7 @@ Takes an entire hour to install after figuring out the steps.
 ### 10/25/26
 * When in the editor, use wasd to move around and q and e to fly.
 * R = Scale (changing the length and width
-* E = Rotate along 3 different axises.
+* E = Rotate along 3 different axes.
 * W = Move (press w to get the interface for moving stuff.
 * In the bottom left corner, there's a content drawer where you move in parts to the level.
 * Details panel on the right side of the screen (after clicking a block) allows you to set the properties of an object.
@@ -64,6 +64,20 @@ Takes an entire hour to install after figuring out the steps.
   * Roughness = How well other objects are reflected on it. (0 = you can see what is currently facing the object).
 * Holding L and clicking adds a light that is visible for both you and the player (the player doesn't see the lightbulb, they just see a patch of light).
 * Holding ctrl l and moving your mouse changes the angle of the sun.
+### 10/2/26
+* return 0
+  * The return statement is used to end a function. Returning a value indicates to the system that the code was executed successfully.
+  * This part is optional.
+* C++ ignores whitespace with a small exception with if statements.
+  
+* The 4 steps in C++
+  * Code
+  * Save
+  * Compile
+  * Execute
+* To compile a file, use g++ fileName.cpp
+  * It creates a machine code file called a.out
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
