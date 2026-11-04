@@ -80,7 +80,23 @@ Takes an entire hour to install after figuring out the steps.
   * You can also use g++ fileName.cpp -o newFileName
     * This names the machine code filed created as newFileName
 * To execute a file, use ./machineCodeFile (which is a.out unless you rename it)
+### 11/3/26
+* After clicking on an object, you can directly enable the physics and gravity for it.
+* Also allows you to edit the mass of an object (click the checkbox).
+* There's also
+  * Linear Damping -- a property that slows down an object's movement over time.
+  * Angular Damping -- a property that slows down an object's rotation over time.
 
+There's tools for animating characters but it doesn't show them in the tutorial.
+
+* The Sequencer Tool
+  * Used for cinematics and cutscenes.
+ 
+* Blueprints
+  * Unreal's visual scripting language (use it alongside C++).
+    * Allows logic and managing events.
+    * Blueprints can be accessed in the content drawer.
+    * After making a blueprint, you have to set the "Trigger" to be that blueprint (took way too long to figure this out).
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
