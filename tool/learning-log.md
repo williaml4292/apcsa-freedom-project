@@ -97,6 +97,20 @@ There's tools for animating characters but it doesn't show them in the tutorial.
     * Allows logic and managing events.
     * Blueprints can be accessed in the content drawer.
     * After making a blueprint, you have to set the "Trigger" to be that blueprint (took way too long to figure this out).
+### 11/4/26
+(I forgot to add this so I'll add this now.)  
+Comments in C++: same as every other coding language.  
+Types in C++
+* int -- integer numbers
+* double -- floating point numbers
+* char -- character
+* string -- sequence of characters
+* bool -- stores true or false.
+  
+Variable declaration and initialization are the same as Java:
+type name = value;
+
+Single equal signs are "ASSIGN" not "EQUAL".
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
