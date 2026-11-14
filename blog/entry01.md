@@ -9,9 +9,11 @@ I mainly tinkered with it in the **tutorial** where it had you _add objects_ usi
 
 I followed the [documentation](linkToDocumentation) made by _Epic Games_ as well.  
 
-Everything that I've learned thus far is in my [learning log](https://github.com/williaml4292/apcsa-freedom-project/blob/main/tool/learning-log.md).  
+Other than using Unreal Engine's standard **blueprints**, I also decided to learn **C++** on Mondays via [codecademy](https://www.codecademy.com/enrolled/courses/learn-c-plus-plus) as I can't pull up Unreal Engine on my school Chromebook, so I'd have enough time to study C++ a little.
 
-Ultimately, I decided to make a **3D RPG** as I love fantasy.  
+Everything that I've learned is in my [learning log](https://github.com/williaml4292/apcsa-freedom-project/blob/main/tool/learning-log.md).  
+
+Ultimately, using Unreal Engine, I decided to make a **3D RPG** as I love fantasy.  
 
 Some other tools and projects that I've considered are using [ml5.js](https://ml5js.org/) to make an **AI** to search online for answers to a prompt and using [unity](https://unity.com/) to make a **2D** game.  
 
