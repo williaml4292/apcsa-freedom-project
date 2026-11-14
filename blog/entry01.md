@@ -20,8 +20,22 @@ Some other tools and projects that I've considered are using [ml5.js](https://ml
 ### Engineering Design Process (EDP)
 I am currently in the _first stage of the Engineering Design Process_, which is to _define the problem_ (what I'm going to make). I've determined that I want to make a 3D RPG using Unreal Engine, but I still have to _research the problem_ (figure out **how** I'm going to make it). To do this, I plan on _finishing the **tutorial**_ on Unreal Engine, find _tutorials for **blueprints**_ and _**creating** objects_, then learning more as needed.
 ### Skills
-#### skill 1
-#### skill 2
+Two skills that I've developed thus far are **how to learn** and having a**growth mindset**.
+#### How to Learn
+While I was going through the tutorial on Unreal Engine, I would frequently change things.  
+For instance, when I was on the brief overview of **blueprints**, I had the option of just _skipping a puzzle_ given to me, but I decided to try it out and solve it, when I didn't even know how blueprints worked yet.  
+I ended up trying and failing for around 45 minutes before I found out how it worked: **blueprints** need to be specifically enabled for an object in order for it to apply.  
+![pic](link)
+#### Growth Mindset
+**Downloading** Unreal Engine and making it run was, _unexpectedly_, the biggest challenge that I've faced so far.  
+When I finally decided to pick Unreal Engine, I just searched online how to download it.  
+I found out that when downloading the _Epic Games Launcher_, you also get an _additional tab for downloading Unreal Engine_.  
+When I tried it, however, I found out that you have to go through a [series of steps](link) before being able to download it.  
+I went through them all, but the download button remained grayed out for me.  
+I was stuck on this for 2 hours before finally finding a fix for this in the comments section of a [video](link).  
+The video itself didn't have the fix for my problem, but the comments section did, and it worked.  
+As it turns out, you **need** to download _Twinmotion_, Unreal Engine's _visualization tool_ **before** downloading Unreal.  
+I don't really know why this is the case; usually, it should be the _other way around_: download Unreal before Twinmotion.  
 
 
 [Next](entry02.md)
