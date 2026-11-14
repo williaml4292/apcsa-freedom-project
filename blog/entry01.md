@@ -17,9 +17,8 @@ Ultimately, using Unreal Engine, I decided to make a **3D RPG** as I love fantas
 
 Some other tools and projects that I've considered are using [ml5.js](https://ml5js.org/) to make an **AI** to search online for answers to a prompt and using [unity](https://unity.com/) to make a **2D** game.  
 
-
 ### Engineering Design Process (EDP)
-
+I am currently in the _first stage of the Engineering Design Process_, which is to _define the problem_ (what I'm going to make). I've determined that I want to make a 3D RPG using Unreal Engine, but I still have to _research the problem_ (figure out **how** I'm going to make it). To do this, I plan on _finishing the **tutorial**_ on Unreal Engine, find _tutorials for **blueprints**_ and _**creating** objects_, then learning more as needed.
 ### Skills
 #### skill 1
 #### skill 2
