@@ -7,7 +7,7 @@ I mainly tinkered with it in the **tutorial** where it had you _add objects_ usi
 
 >>> Pictures go here
 
-I followed the [documentation](linkToDocumentation) made by _Epic Games_ as well.  
+I followed the [documentation](https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-9-documentation?lang=en-US) made by _Epic Games_ as well.  
 
 Other than using Unreal Engine's standard **blueprints**, I also decided to learn **C++** on Mondays via [codecademy](https://www.codecademy.com/enrolled/courses/learn-c-plus-plus) as I can't pull up Unreal Engine on my school Chromebook, so I'd have enough time to study C++ a little.
 
@@ -30,9 +30,10 @@ I ended up trying and failing for around 45 minutes before I found out how it wo
 **Downloading** Unreal Engine and making it run was, _unexpectedly_, the biggest challenge that I've faced so far.  
 When I finally decided to pick Unreal Engine, I just searched online how to download it.  
 I found out that when downloading the _Epic Games Launcher_, you also get an _additional tab for downloading Unreal Engine_.  
-When I tried it, however, I found out that you have to go through a [series of steps](link) before being able to download it.  
-I went through them all, but the download button remained grayed out for me.  
-I was stuck on this for 2 hours before finally finding a fix for this in the comments section of a [video](link).  
+However, when I tried it, the download button remained **grayed** out for me.  
+I thought that I might have to do some other things before being able to use it, so I also [linked my github account](https://www.unrealengine.com/ue-on-github).  
+After doing this, though, I still wasn't able to download Unreal.  
+I then proceeded to shut down my computer several times among other things before finally finding a fix for this in the comments section of a [video](https://www.youtube.com/watch?v=rldy9yY0yDU).  
 The video itself didn't have the fix for my problem, but the comments section did, and it worked.  
 As it turns out, you **need** to download _Twinmotion_, Unreal Engine's _visualization tool_ **before** downloading Unreal.  
 I don't really know why this is the case; usually, it should be the _other way around_: download Unreal before Twinmotion.  
