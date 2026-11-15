@@ -52,6 +52,8 @@ The video itself didn't have the fix for my problem, but the comments section di
 As it turns out, you **need** to download _Twinmotion_, Unreal Engine's _visualization tool_ **before** downloading Unreal.  
 I don't really know why this is the case; usually, it should be the _other way around_: download Unreal before Twinmotion.  
 
+All in all, I spent around 2 hours figuring out how to download Unreal Engine and another 2 hours to install it before I was able to use it.  
+
 
 [Next](entry02.md)
 
