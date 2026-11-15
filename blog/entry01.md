@@ -33,7 +33,7 @@ Two skills that I've developed thus far are **how to learn** and having a**growt
 #### How to Learn
 While I was going through the tutorial on Unreal Engine, I would frequently change things.  
 For instance, when I was on the brief overview of **blueprints**, I had the option of just _skipping a puzzle_ given to me, but I decided to try it out and solve it, when I didn't even know how blueprints worked yet.  
-I ended up trying and failing for around 45 minutes before I found out how it worked: **blueprints** need to be specifically enabled for an object in order for it to apply.  
+I ended up trying and failing for around 45 minutes before I found out how it worked: **blueprints** need to be specifically enabled for an object in the details panel in order for it to apply.  
 ![enablingBlueprint](../images/enableTrigger.png)
 
 I also tried changing the properties of a ball object, specifically its color, how metallic it is, and its roughness.  
