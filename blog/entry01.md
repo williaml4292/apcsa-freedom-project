@@ -44,7 +44,7 @@ I found out that _metallic_ just means how well light reflects on the object and
 **Downloading** Unreal Engine and making it run was, _unexpectedly_, the biggest challenge that I've faced so far.  
 When I finally decided to pick Unreal Engine, I just searched online how to download it.  
 I found out that when downloading the _Epic Games Launcher_, you also get an _additional tab for downloading Unreal Engine_.  
-However, when I tried it, the download button remained **grayed** out for me.  
+However, when I tried it, the download button was **grayed** out for me.  
 I thought that I might have to do some other things before being able to use it, so I also [linked my github account](https://www.unrealengine.com/ue-on-github).  
 After doing this, though, I still wasn't able to download Unreal.  
 I then proceeded to shut down my computer several times among other things before finally finding a fix for this in the comments section of a [video](https://www.youtube.com/watch?v=rldy9yY0yDU).  
