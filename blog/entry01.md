@@ -5,11 +5,20 @@
 The tool I decided to learn for the rest of the year is **Unreal Engine** because I really want to make a **3D** game so I just chose the best one for the job.  
 I mainly tinkered with it in the **tutorial** where it had you _add objects_ using the content drawer and _change properties_ using the details panel to see what happens.  
 
->>> Pictures go here
+Adding objects:  
+![addObjects](../images/contentDrawer.png)
+
+Changing materials:  
+![changingMaterials](../images/materials.png)
+
+Using the details panel to change collision settings:  
+![changingCollision](../images/detailsCollision.png)
 
 I followed the [documentation](https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-5-9-documentation?lang=en-US) made by _Epic Games_ as well.  
 
 Other than using Unreal Engine's standard **blueprints**, I also decided to learn **C++** on Mondays via [codecademy](https://www.codecademy.com/enrolled/courses/learn-c-plus-plus) as I can't pull up Unreal Engine on my school Chromebook, so I'd have enough time to study C++ a little.
+
+This will be helpful later on since C++ is the _primary_ coding language used in Unreal Engine.
 
 Everything that I've learned is in my [learning log](https://github.com/williaml4292/apcsa-freedom-project/blob/main/tool/learning-log.md).  
 
@@ -25,7 +34,12 @@ Two skills that I've developed thus far are **how to learn** and having a**growt
 While I was going through the tutorial on Unreal Engine, I would frequently change things.  
 For instance, when I was on the brief overview of **blueprints**, I had the option of just _skipping a puzzle_ given to me, but I decided to try it out and solve it, when I didn't even know how blueprints worked yet.  
 I ended up trying and failing for around 45 minutes before I found out how it worked: **blueprints** need to be specifically enabled for an object in order for it to apply.  
-![pic](link)
+![enablingBlueprint](../images/enableTrigger.png)
+
+I also tried changing the properties of a ball object, specifically its color, how metallic it is, and its roughness.  
+![changingProperties](../images/ballProperties.png)
+
+I found out that _metallic_ just means how well light reflects on the object and _roughness_ is how well other objects reflect on it (at 0, you can see what is currently facing the object).  
 #### Growth Mindset
 **Downloading** Unreal Engine and making it run was, _unexpectedly_, the biggest challenge that I've faced so far.  
 When I finally decided to pick Unreal Engine, I just searched online how to download it.  
