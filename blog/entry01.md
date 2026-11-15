@@ -29,7 +29,7 @@ Some other tools and projects that I've considered are using [ml5.js](https://ml
 ### Engineering Design Process (EDP)
 I am currently in the _first stage of the Engineering Design Process_, which is to _define the problem_ (what I'm going to make). I've determined that I want to make a 3D RPG using Unreal Engine, but I still have to _research the problem_ (figure out **how** I'm going to make it). To do this, I plan on _finishing the **tutorial**_ on Unreal Engine, find _tutorials for **blueprints**_ and _**creating** objects_, then learning more as needed.
 ### Skills
-Two skills that I've developed thus far are **how to learn** and having a**growth mindset**.
+Two skills that I've developed thus far are **how to learn** and having a **growth mindset**.
 #### How to Learn
 While I was going through the tutorial on Unreal Engine, I would frequently change things.  
 For instance, when I was on the brief overview of **blueprints**, I had the option of just _skipping a puzzle_ given to me, but I decided to try it out and solve it, when I didn't even know how blueprints worked yet.  
