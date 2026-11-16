@@ -107,10 +107,23 @@ Types in C++
 * string -- sequence of characters
 * bool -- stores true or false.
   
-Variable declaration and initialization are the same as Java:
+Variable declaration and initialization are the same as Java:  
 type name = value;
 
 Single equal signs are "ASSIGN" not "EQUAL".
+
+### 11/16/26
+* Arithmetic Operators are the same as other languages.
+* std::cout << varName << "\n"
+  * Better than concatenation as it uses less memory and avoids segmentation faults (core dumped).
+  * Basically with couts, always use << instead of +.
+* `>>`
+  * get from
+* cin
+  * Standard Input Stream
+  * Pronounced "see-in" for character input.
+* std::cin >> varName;
+  * Passes in the (user) input into varName.
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
