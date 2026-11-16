@@ -124,6 +124,34 @@ Single equal signs are "ASSIGN" not "EQUAL".
   * Pronounced "see-in" for character input.
 * std::cin >> varName;
   * Passes in the (user) input into varName.
+* std::string message = "text";
+  * Creating a string variable called message.
+  * Just string message = text; doesn't work.
+* const type varName = value;
+  * Can't be changed later on; stays constant and unmodifiable.
+* Type conversion
+  * (type) value
+    * Convert value to type.
+    * Going from double to int just removes the decimals without any rounding done (truncated).
+* If statements are the same as any other language.
+* Relational operators are the same as in any other language.
+
+Switch Statements.
+``` C++
+switch (var){
+   case value:
+      code
+      break;
+   case value2:
+      code 
+      break;
+   default:
+      code
+      break;
+}
+
+```
+--> Add explanation later.
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
