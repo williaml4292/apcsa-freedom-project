@@ -169,6 +169,15 @@ switch (var){
 * For some reason, both spaces and dashes are not allowed in the name of a project.
 * Unreal gives a few base templates when creating a project, including top-down, first person, and third person.
 * ...It takes 5 minutes to make a project (like after putting in a projectName, you have to wait 5 minutes for it to finish creating).
+* After loading, it briefly takes up an insane amount of memory/cpu (like 96%) so it might be difficult to run with too many assets with a bad computer.
+  * Drops to 40% cpu and 70% memory later and the character moves smoothly.
+* Lights look really bad if used inproperly.
+* The third person template is really good for what I want to make.
+
+* Fabs (things created by other users) can be added to a project in the _epic games launcher_ (there's a rotation of free fabs every 2 weeks so just grab them).
+* They're separate in the content drawer but don't function properly without proper blueprinting.
+* Threw a bunch of stone golems down but they don't do anything (other than the one that's just an animation, that one just repeats the animation over and over).
+* To have a proper enemy, you probably chain together several animations.
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
