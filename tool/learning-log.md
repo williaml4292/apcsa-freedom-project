@@ -152,6 +152,23 @@ switch (var){
 
 ```
 --> Add explanation later.
+### 11/20/26
+* Templates
+  * To create a project from a template,
+    * Start unreal's launcher (before entering any games) or in the main editor menu, file > new project (when in you're already in a game, top left).
+   
+* Samples
+  * Basically just showcases more of unreal.
+  * Launcher > samples
+* ctrl hold lmb after clicking on an object moves it up and down (why would you use this).
+* ctrl hold rmb after clicking on an object moves it left and right (why would you use this).
+
+* To get back to the launcher, you have to close the editor and reopen it.
+* Many more tutorials in the launcher itself (under resources and community).
+
+* For some reason, both spaces and dashes are not allowed in the name of a project.
+* Unreal gives a few base templates when creating a project, including top-down, first person, and third person.
+* ...It takes 5 minutes to make a project (like after putting in a projectName, you have to wait 5 minutes for it to finish creating).
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
