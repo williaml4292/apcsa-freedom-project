@@ -179,6 +179,37 @@ switch (var){
 * They're separate in the content drawer but don't function properly without proper blueprinting.
 * Threw a bunch of stone golems down but they don't do anything (other than the one that's just an animation, that one just repeats the animation over and over).
 * To have a proper enemy, you probably chain together several animations.
+### 11/23/26
+Explanation of switch Statements:
+
+``` C++
+switch (var){
+   case value:
+      code
+      break;
+   case value2:
+      code 
+      break;
+   default:
+      code
+      break;
+}
+
+```
+The switch keyword initializes the statement.  
+The () contains the value (variable) that each case will compare.  
+It must be an integral type (int, char, short, long, or enum).  
+The case keyword checks if the variable matches the value that comes right after (pretty much just if X = Y).  
+Runs if they match.  
+The break; keyword tells the computer to exit and not run any other code or check the other cases.  
+* Without break; at the end of each case, the program executes the code for the first matching case and everything that follows, including the default statement.
+The default statement tells the computer what to do if none of the cases are true.
+
+Logical operators are the same as in every other language.
+* `and` can be used in place of `&&`.
+* `or` can be used in place of `||`.
+* `not` can be used in place of `!` (not var).
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
