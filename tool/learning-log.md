@@ -209,6 +209,35 @@ Logical operators are the same as in every other language.
 * `and` can be used in place of `&&`.
 * `or` can be used in place of `||`.
 * `not` can be used in place of `!` (not var).
+### 11/24/26
+While loops are the same as in other languages.    
+The escape sequences all work (\n, \t, etc).  
+For loops are the same as in other languages.
+
+Compile time errors: errors found by the compiler.  
+* Syntax errors: errors that occur when you violate the rules of C++ syntax.
+* Type errors: errors that occur when there are mismatches between the types declared.
+
+Link-time errors: errors found by the linker when trying to combine object files into an executable program.  
+* The program needs some function or library that it can't find.
+As programs get bigger and we get more files, the linker has to do more work _linking_ all the files into a single executable file.
+* Good practice to divide programs into smaller files.
+* Common Types:  
+  * Using a function that is undefined.
+  * Using `Main` instead of `main`.
+
+If a program has no compile-time or link-time errors, it will run.
+
+Run-time errors: errors found by checks in a running program.  
+* Occurs when we ask the computer to do something it cannot reliably do.
+* Common Types:
+  * Division by 0.
+  * Trying to open a file that does not exist.
+    
+Logic errors: errors found by the programmer looking for the cause of erroneous (faulty) results.  
+* The program runs successfully but doesn't produce the results we want.
+
+Google and Stack Overflow is a programmer's best friend.
 
 <!-- 
 * Links you used today (websites, videos, etc)
